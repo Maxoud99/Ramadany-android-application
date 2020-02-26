@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#910e3f</color>
+    <color name="colorPrimaryDark">#c7023a</color>
+    <color name="colorAccent">#ff5834</color>
+    <color name="itemList">#44c440</color>
+    <color name="white">#FFFFFF</color>
+    <color name="FireBrick">#b22222</color>
+    <color name="Inverted">#45e9f3</color>
+    <color name="peach">#f47983</color>
+    <color name="webSafe">#00ff00</color>
+    <color name="Pink">#FF69B4</color>
+</resources>

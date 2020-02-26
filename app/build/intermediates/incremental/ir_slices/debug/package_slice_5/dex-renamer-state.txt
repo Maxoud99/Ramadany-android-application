@@ -1,0 +1,4 @@
+#Wed Feb 26 11:29:55 EET 2020
+base.0=F\:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
