@@ -7,10 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -20,25 +18,33 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        Bundle b=getIntent().getExtras();
-        String Email=b.getString("Email");
-        Toast.makeText(this,"  Hello ! \n "+Email,Toast.LENGTH_LONG).show();
-
-        ArrayList<ListItems>Items=new ArrayList<>();
-        Items.add(new ListItems("Android"));
-        Items.add(new ListItems("iPhone"));
-        Items.add(new ListItems("Windows"));
-        Items.add(new ListItems("BluckBerry"));
-        Items.add(new ListItems("Linux"));
-        MyAdapter adapter=new MyAdapter(Items);
-        ListView ls=(ListView)findViewById(R.id.ListView);
-        ls.setAdapter(adapter);
+        ArrayList<ListItems>items=new ArrayList<>();
+        items.add(new ListItems("Moslslat"));
+        items.add(new ListItems("Programs"));
+        MyAdapter myAdapter=new MyAdapter(items);
+        ListView ls =(ListView)findViewById(R.id.list);
+//        ls.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+//            @Override
+//            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+//
+//
+//            }
+//        });
+        ls.setAdapter(myAdapter);
     }
     public void txtViewOnclick(View view) {
-        TextView txt=(TextView) findViewById(R.id.txt_view);
-        Intent intent=new Intent(this,Main3Activity.class);
-        startActivity(intent);
-    }
+        TextView txtname=(TextView)view.findViewById(R.id.listname);
+        String type=txtname.getText().toString();
+        if(type.equals("Moslslat")){
+            Intent intent = new Intent(this, Mos.class);
+            startActivity(intent);
+        }else{
+            if(type.equals("Programs")){
+                Intent intent=new Intent(this,prog.class);
+                startActivity(intent);
+            }
+        }
+   }
 
     class MyAdapter extends BaseAdapter {
         ArrayList<ListItems>Items=new ArrayList<ListItems>();
@@ -64,7 +70,7 @@ public class Main2Activity extends AppCompatActivity {
         public View getView(int position, View convertView, ViewGroup parent) {
             LayoutInflater layoutInflater=getLayoutInflater();
             View view1=layoutInflater.inflate(R.layout.list_view,null);
-            TextView txtname=(TextView)view1.findViewById(R.id.txt_view);
+            TextView txtname=(TextView)view1.findViewById(R.id.listname);
             txtname.setText(Items.get(position).name);
             return view1;
         }

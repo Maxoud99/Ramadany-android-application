@@ -7,15 +7,19 @@
     tools:context=".Main2Activity">
 
     <ListView
-        android:id="@+id/ListView"
-        android:layout_width="512dp"
-        android:layout_height="799dp"
+        android:id="@+id/list"
+        android:layout_width="495dp"
+        android:layout_height="653dp"
         android:layout_marginStart="1dp"
         android:layout_marginTop="1dp"
         android:layout_marginEnd="1dp"
         android:layout_marginBottom="1dp"
+        android:background="@drawable/ramadan2"
+        android:foregroundGravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.404" />
 </android.support.constraint.ConstraintLayout>
