@@ -1,4 +1,4 @@
-#Sun May 24 00:10:44 EET 2020
+#Mon May 25 01:17:10 EET 2020
 base.0=F\:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

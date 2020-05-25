@@ -1,31 +1,27 @@
 [
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ramadan.jpg.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\ramadan.jpg"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_apple.png.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\apple.png"
     },
     {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_apple.png.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\apple.png"
-    },
-    {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_el8lb.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\el8lb.jpg"
     },
     {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_view.xml.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\list_view.xml"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shahidayan.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\shahidayan.jpg"
     },
     {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -36,10 +32,6 @@
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_main2.xml"
-    },
-    {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_windows.png.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\windows.png"
     },
@@ -48,24 +40,28 @@
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\linux.png"
     },
     {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_elnesyan.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\elnesyan.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_elfetwa.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\elfetwa.jpg"
+    },
+    {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ramadan2.png.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\ramadan2.png"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_prog.xml.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\list_prog.xml"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_imam.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\imam.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ekhtyar.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\ekhtyar.jpg"
     },
     {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prog.xml.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_prog.xml"
-    },
-    {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main4.xml.flat",
@@ -76,8 +72,84 @@
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blackberry.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\blackberry.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details_.xml.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_details_.xml"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_elprince.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\elprince.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lyalena80.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\lyalena80.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_forsa_thaniya.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\forsa_thaniya.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ramadan.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\ramadan.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_view.xml.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_etneenfelsandoq.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\etneenfelsandoq.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_crazy.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\crazy.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_b100wesh.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\b100wesh.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_prog.xml.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\list_prog.xml"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mos.xml.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_mos.xml"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ramez.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\ramez.jpg"
     },
     {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -88,31 +160,35 @@
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blackberry.jpg.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\blackberry.jpg"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ard.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\ard.jpg"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_elnhaya.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\elnhaya.jpg"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main3.xml.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_main3.xml"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_valentino.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\valentino.jpg"
+    },
+    {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_khyantahd.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\khyantahd.jpg"
     },
     {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_mos_list.xml.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\mos_list.xml"
     },
     {
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main3.xml.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
         "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_download.png.flat",
         "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\download.png"
     },
     {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_l3lhom.jpg.flat",
+        "source": "F:\\Semester 6\\Protocols\\islam\\app\\src\\main\\res\\drawable-v24\\l3lhom.jpg"
     }
 ]

@@ -4,6 +4,179 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/ramadan2"
     tools:context=".details_Activity">
 
+    <ImageView
+        android:id="@+id/im"
+        android:layout_width="198dp"
+        android:layout_height="348dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/elnhaya" />
+
+    <TextView
+        android:id="@+id/mosprogname"
+        android:layout_width="211dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:text="TextView"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:autoSizeMaxTextSize="@android:dimen/app_icon_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/im" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="27dp"
+        android:text="Channel :"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/channel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/im"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/channel"
+        android:layout_width="150dp"
+        android:layout_height="21dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/textView4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.148"
+        app:layout_constraintStart_toEndOf="@+id/im" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="113dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="15dp"
+        android:text="Display Time :"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/Display"
+        app:layout_constraintStart_toEndOf="@+id/im" />
+
+    <TextView
+        android:id="@+id/Display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginBottom="29dp"
+        android:text="TextView"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/textView6"
+        app:layout_constraintStart_toEndOf="@+id/im" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="220dp"
+        android:layout_marginBottom="12dp"
+        android:text="Re-Display Time :"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/Redisp"
+        app:layout_constraintStart_toStartOf="@+id/im" />
+
+    <TextView
+        android:id="@+id/Redisp"
+        android:layout_width="137dp"
+        android:layout_height="113dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="320dp"
+        android:text="TextView"
+        android:textColor="#FFFFFF"
+        app:autoSizeMaxTextSize="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/im" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="23dp"
+        android:text="Main Stars :"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/stars"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/stars"
+        android:layout_width="327dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:text="TextView"
+        android:textColor="#FFFFFF"
+        app:autoSizeMaxTextSize="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toTopOf="@+id/textView10"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Brief Description :"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/Desc"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/Desc"
+        android:layout_width="315dp"
+        android:layout_height="143dp"
+        android:layout_marginBottom="2dp"
+        android:text="TextView"
+        android:textColor="#FFFFFF"
+        app:autoSizeMaxTextSize="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toTopOf="@+id/textView12"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="Promo :"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/promo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="4dp"
+        android:text="TextView"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
 </android.support.constraint.ConstraintLayout>

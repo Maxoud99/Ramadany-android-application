@@ -1,5 +1,6 @@
 package com.example.islam;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -22,7 +23,8 @@ public class Mos extends AppCompatActivity {
         items.add(new moslist("El Fetwah"));
         items.add(new moslist("Forsa Tanya"));
         items.add(new moslist("El Nehaya"));
-        items.add(new moslist("Valentino "));
+        items.add(new moslist("Valentino"));
+        items.add(new moslist("B 100 Wesh"));
         items.add(new moslist("EL Prince"));
         items.add(new moslist("Luebat Al-Nesyan"));
         items.add(new moslist("Lyalyna 80"));
@@ -34,9 +36,13 @@ public class Mos extends AppCompatActivity {
         ls.setAdapter(myAdapter);
     }
     public void txtViewOnclick(View view) {
-        TextView txtname=(TextView)view.findViewById(R.id.listname);
+        TextView txtname=(TextView)view.findViewById(R.id.mosname);
         String type=txtname.getText().toString();
-
+        Intent intent=new Intent(this,details_Activity.class);
+        Bundle b=new Bundle();
+        b.putString("type",type);
+        intent.putExtras(b);
+        startActivity(intent);
     }
     class MyAdapter extends BaseAdapter {
         ArrayList<moslist> Items=new ArrayList<moslist>();

@@ -4,7 +4,7 @@
             "outputFile": "F:\\Semester 6\\Protocols\\islam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\66237719ff0203ecb2bb9da132943ed0\\support-compat-27.1.1\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\3254ab34e9674f169c6d6ef9ad6c8d71\\support-compat-27.1.1\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\1460c6c6a61a15263898b8065bed8020\\appcompat-v7-27.1.1\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\367f6d7cccc32a82ca4939519db09393\\appcompat-v7-27.1.1\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

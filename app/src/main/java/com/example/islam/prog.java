@@ -1,5 +1,6 @@
 package com.example.islam;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -22,7 +23,7 @@ public class prog extends AppCompatActivity {
         items.add(new progList("Ramez magnoon rasmy"));
         items.add(new progList("Crazy Taxi"));
         items.add(new progList("Eghlb El-Sa'a"));
-        items.add(new progList("Lalahom Yafqahoon "));
+        items.add(new progList("Lalahom Yafqahoon"));
         items.add(new progList("EL-Imam El-Tayeb"));
         items.add(new progList("Ard El-Anbya'a"));
         prog.MyAdapter myAdapter=new prog.MyAdapter(items);
@@ -30,9 +31,13 @@ public class prog extends AppCompatActivity {
         ls.setAdapter(myAdapter);
     }
     public void txtViewOnclick(View view) {
-        TextView txtname=(TextView)view.findViewById(R.id.listname);
+        TextView txtname=(TextView)view.findViewById(R.id.progname);
         String type=txtname.getText().toString();
-
+        Intent intent=new Intent(this,details_Activity.class);
+        Bundle b=new Bundle();
+        b.putString("type",type);
+        intent.putExtras(b);
+        startActivity(intent);
     }
     class MyAdapter extends BaseAdapter {
         ArrayList<progList> Items=new ArrayList<>();
