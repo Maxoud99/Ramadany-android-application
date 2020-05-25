@@ -86,7 +86,7 @@ public class Main4Activity extends AppCompatActivity {
                                 startActivity(intent);
                                 finish();
                             } else {
-                                //System.out.println("6666666666666666666666666666666666666");
+
 
                                 Toast.makeText(Main4Activity.this, "unsuccessful sign up !", Toast.LENGTH_LONG).show();
 
