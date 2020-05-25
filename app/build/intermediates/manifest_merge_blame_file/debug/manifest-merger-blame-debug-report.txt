@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.islam"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:5:5-25:19
+12        android:allowBackup="true"
+12-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="Ramadany"
+15-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:8:9-33
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity android:name="com.example.islam.details_Activity" />
+20-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:12:9-63
+20-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:12:19-51
+21        <activity android:name="com.example.islam.Mos" />
+21-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:13:9-41
+21-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:13:19-38
+22        <activity android:name="com.example.islam.prog" />
+22-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:14:9-42
+22-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:14:19-39
+23        <activity android:name="com.example.islam.Main4Activity" />
+23-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:15:9-51
+23-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:15:19-48
+24        <activity android:name="com.example.islam.Main3Activity" />
+24-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:16:9-51
+24-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:16:19-48
+25        <activity android:name="com.example.islam.MainActivity" >
+25-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:17:9-23:20
+25-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:17:19-47
+26            <intent-filter>
+26-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:18:13-22:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:19:17-69
+27-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:19:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:21:17-77
+29-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:21:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.example.islam.Main2Activity" />
+32-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:24:9-51
+32-->F:\Semester 6\Protocols\islam\app\src\main\AndroidManifest.xml:24:19-48
+33
+34        <provider
+34-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0345d25e2b13ba7e8f15f105e9770cca\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+35            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+35-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0345d25e2b13ba7e8f15f105e9770cca\extensions-1.1.1\AndroidManifest.xml:24:13-83
+36            android:authorities="com.example.islam.lifecycle-trojan"
+36-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0345d25e2b13ba7e8f15f105e9770cca\extensions-1.1.1\AndroidManifest.xml:25:13-68
+37            android:exported="false"
+37-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0345d25e2b13ba7e8f15f105e9770cca\extensions-1.1.1\AndroidManifest.xml:26:13-37
+38            android:multiprocess="true" />
+38-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0345d25e2b13ba7e8f15f105e9770cca\extensions-1.1.1\AndroidManifest.xml:27:13-40
+39
+40        <activity
+40-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:24:9-31:50
+41            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+41-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:25:13-85
+42            android:excludeFromRecents="true"
+42-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:26:13-46
+43            android:exported="true"
+43-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:27:13-36
+44            android:launchMode="singleTask"
+44-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:28:13-44
+45            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+45-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:29:13-102
+46            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+46-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:30:13-72
+47
+48        <service
+48-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:33:9-39:19
+49            android:name="com.google.firebase.components.ComponentDiscoveryService"
+49-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:34:13-84
+50            android:exported="false" >
+50-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:35:13-37
+51            <meta-data
+51-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:36:13-38:85
+52                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+52-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:37:17-109
+53                android:value="com.google.firebase.components.ComponentRegistrar" />
+53-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8d9fde3bb0b8f23a8f67134925e083f4\firebase-auth-16.0.5\AndroidManifest.xml:38:17-82
+54        </service>
+55
+56        <activity
+56-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3a91e5ceb48d34e88a452c235dbe2dc6\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+57            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+57-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3a91e5ceb48d34e88a452c235dbe2dc6\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+58            android:exported="false"
+58-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3a91e5ceb48d34e88a452c235dbe2dc6\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+59            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+59-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3a91e5ceb48d34e88a452c235dbe2dc6\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+60
+61        <provider
+61-->[com.google.firebase:firebase-common:16.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fe46a8029b86b855c99e444e85cf9905\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+62            android:name="com.google.firebase.provider.FirebaseInitProvider"
+62-->[com.google.firebase:firebase-common:16.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fe46a8029b86b855c99e444e85cf9905\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+63            android:authorities="com.example.islam.firebaseinitprovider"
+63-->[com.google.firebase:firebase-common:16.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fe46a8029b86b855c99e444e85cf9905\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+64            android:exported="false"
+64-->[com.google.firebase:firebase-common:16.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fe46a8029b86b855c99e444e85cf9905\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+65            android:initOrder="100" />
+65-->[com.google.firebase:firebase-common:16.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fe46a8029b86b855c99e444e85cf9905\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+66
+67        <meta-data
+67-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f592052298b6712f795de09c79f979be\play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+68            android:name="com.google.android.gms.version"
+68-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f592052298b6712f795de09c79f979be\play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+69            android:value="@integer/google_play_services_version" />
+69-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f592052298b6712f795de09c79f979be\play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+70    </application>
+71
+72</manifest>

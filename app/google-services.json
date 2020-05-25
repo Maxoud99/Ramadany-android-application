@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021327665576",
+    "firebase_url": "https://islam-101a2.firebaseio.com",
+    "project_id": "islam-101a2",
+    "storage_bucket": "islam-101a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021327665576:android:bcb7b8ca4e32c38000159d",
+        "android_client_info": {
+          "package_name": "com.example.islam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021327665576-1tm0vcplfduaeag4mu2d4t8brq2ne0dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.islam",
+            "certificate_hash": "c9b509d24239a752b243bcf35570a1b79b96431d"
+          }
+        },
+        {
+          "client_id": "1021327665576-3dd57f4rgatr7mpb9dc7ggn901d1cet9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvKDqxpORE4ISEqZozMX7eGInx8KqUmMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021327665576-3dd57f4rgatr7mpb9dc7ggn901d1cet9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
