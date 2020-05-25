@@ -80,8 +80,7 @@ public class Main4Activity extends AppCompatActivity {
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             //System.out.println("44444444444444444444444444444444444444");
                             if (task.isSuccessful()) {
-                               // System.out.println("555555555555555555555555555555555");
-                                // Sign in success, update UI with the signed-in user's information
+
                                  Toast.makeText(Main4Activity.this,"successful sign up !",Toast.LENGTH_LONG).show();
                                 startActivity(intent);
                                 finish();
