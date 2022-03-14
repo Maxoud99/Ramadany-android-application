@@ -1,0 +1,4 @@
+A complete stack development for an Android application was done in this
+project, with a php back-end connected to a SQL database.
+The application is a shopping application in which the user can
+make online shopping.
